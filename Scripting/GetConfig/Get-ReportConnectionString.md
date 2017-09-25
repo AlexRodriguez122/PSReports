@@ -67,5 +67,5 @@ Autor: Jarodriguezc
 
 ## RELATED LINKS
 
-[Get-ReportConnectionString](https://github.com/AlexRodriguez122/PSReports/blob/master/GetConfig/Get-ReportConnectionString.md)
+[Get-ReportConnectionString](https://github.com/AlexRodriguez122/PSReports/blob/master/Scripting/GetConfig/Get-ReportConnectionString.md)
 
