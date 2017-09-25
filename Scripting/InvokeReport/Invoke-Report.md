@@ -55,5 +55,5 @@ Autor: Jarodriguezc
 
 ## RELATED LINKS
 
-[Set-ReportConfig]()
+[Invoke-Report](https://github.com/AlexRodriguez122/PSReports/blob/master/Scripting/InvokeReport/Invoke-Report.md)
 
