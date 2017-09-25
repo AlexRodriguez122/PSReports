@@ -4,10 +4,10 @@ Esta sección explica cómo instalar el módulo PSReports así como sus pre-requ
 
 * [Instalación](Installing-PSRreports.md)
 
-* [Desintalación](Uninstalling-PSProcessa.md)
+* [Desintalación](Uninstalling-PSRreports.md)
 
-* [Importación](Importing-PSProcessa.md)
+* [Importación](Importing-PSRreports.md)
 
-* [Funciones](Get-Command-PSProcessa.md)
+* [Funciones](Get-Command-PSRreports.md)
 
 * [Ayuda](Get-PSPCommand.md)
