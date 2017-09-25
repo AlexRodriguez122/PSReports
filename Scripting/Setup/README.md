@@ -10,4 +10,4 @@ Esta sección explica cómo instalar el módulo PSReports así como sus pre-requ
 
 * [Funciones](Get-Command-PSRreports.md)
 
-* [Ayuda](Get-PSPCommand.md)
+* [Ayuda](Get-PSRHelp.md)
