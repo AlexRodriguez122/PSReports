@@ -55,5 +55,5 @@ Autor: Jarodriguezc
 
 ## RELATED LINKS
 
-[Set-ReportConfig]()
+[Set-ReportConfig](https://github.com/AlexRodriguez122/PSReports/blob/master/GetConfig/Get-ReportConfig.md)
 
