@@ -53,4 +53,4 @@ Accept wildcard characters: False
 Autor: Jarodriguezc
 
 ## RELATED LINKS
-
+[Remove-ReportConfig](https://github.com/AlexRodriguez122/PSReports/blob/master/Scripting/RemoveConfig/Remove-ReportConfig.md)
