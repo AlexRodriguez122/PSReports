@@ -1,7 +1,7 @@
 # PSReports
 Permite configurar y generar reportes a partis de Scripts de Sql Server.
 
-![Curent release](https://img.shields.io/badge/Version-1.0.0-orange.svg)
+![Curent release](https://img.shields.io/badge/Version-1.0.6478.6478-orange.svg)
 
 
 ## Estructura de la documentación
