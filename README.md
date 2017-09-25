@@ -11,7 +11,7 @@ Las carpetas corresponden a los siguientes recursos de información:
 | Carpeta  | Descripción  |
 |:---|---|
 | [Scripting >> Setup](scripting/setup)  | Describe el proceso de instalación del módulo |
-| [Scripting >> SetConfig](scripting/set config)  | Funciones que permiten crear y modificar configuraciones los reportes. |
-| [Scripting >> GetConfig](scripting/get config)  | Funciones que permiten obtener la configuracion de los reportes. |
-| [Scripting >> RemoveConfig](scripting/remove config)  | Funciones permiten eliminar una condiguracion de un reporte especifico. |
-| [Scripting >> InvokeReport](scripting/invoke report)  | Fucion que genera un reporte especifico. |
+| [Scripting >> Set Config](scripting/setconfig)  | Funciones que permiten crear y modificar configuraciones los reportes. |
+| [Scripting >> Get Config](scripting/getconfig)  | Funciones que permiten obtener la configuracion de los reportes. |
+| [Scripting >> Remove Config](scripting/removeconfig)  | Funciones permiten eliminar una condiguracion de un reporte especifico. |
+| [Scripting >> Invoke Report](scripting/invokereport)  | Fucion que genera un reporte especifico. |
