@@ -99,5 +99,5 @@ Autor: Jarodriguezc
 
 ## RELATED LINKS
 
-[Get-ReportConnectionString](https://github.com/AlexRodriguez122/PSReports/blob/master/SetConfig/Set-ReportConnectionString.md)
+[Get-ReportConnectionString](https://github.com/AlexRodriguez122/PSReports/blob/master/Scripting/SetConfig/Set-ReportConnectionString.md)
 
