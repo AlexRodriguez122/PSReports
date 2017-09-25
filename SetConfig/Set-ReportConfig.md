@@ -376,5 +376,5 @@ Autor: Jarodriguezc
 
 ## RELATED LINKS
 
-[Get-ReportConfig]()
+[Get-ReportConfig]('https://github.com/AlexRodriguez122/PSReports/edit/master/SetConfig/Set-ReportConfig.md')
 
